@@ -228,4 +228,3 @@ prompt_to_send = quick_prompt or user_input
 if prompt_to_send:
     process_chat_turn(prompt_to_send, customer_id_clean)
     st.rerun()
-Y
