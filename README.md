@@ -1,4 +1,4 @@
-# 🏦 Banamex AI Concierge — Sistema Multi-Agente Bancario
+# 🏦 BMX AI Concierge — Sistema Multi-Agente Bancario
 
 [![CI - Tests & AI Quality Gate](https://github.com)](https://github.com)
 
@@ -35,7 +35,7 @@ dígitos, NIP y CVV).
 ```bash
 # 1. Clonar e instalar dependencias
 git clone https://github.com
-cd banamex-ai-concierge
+cd bmx-ai-concierge
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 
